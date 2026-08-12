@@ -10,7 +10,7 @@ The goal is to **score as much as possible while keeping the ball from touching 
 
 ## Game screen cast
 
-[![Demo screen cast](mybreakout-thumnail.png)](screen_cast.mp4)
+[![Demo screen cast](./assets/mybreakout-thumnail.png)](./assets/screen_cast.mp4)
 
 ## How to Start the Game
 
